@@ -1,0 +1,114 @@
+body {
+    background-color: black;
+}
+.nav-top-level {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color : white;
+    font-size: 20px;
+    height: auto;
+    gap: 3rem;
+    border: 1px solid #565555; 
+    padding: 10px; 
+    background-color : black;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    border: 1rem;
+}
+.navbar img [
+    width: 20px;
+]
+.nav-pair {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.landing-body{
+    color: white;
+    background-color:black;
+    margin: 0%;
+}
+.landing-header {
+    color:white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.features {
+    display: flex;
+    width: 100%;
+}
+.for-college {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+     
+}
+.h2-college{
+    display: flex;
+    justify-content: center;
+}
+.h3-college{
+    display: flex;
+    justify-content:center ;
+}
+.h2-student{
+    display: flex;
+    justify-content: center;
+}
+.h3-student{
+    display: flex;
+    justify-content: center;
+}
+.p-student{
+    display: flex;
+    justify-content: center;
+    width: 85%;
+    text-align: center;
+}
+.b-student{
+    display: flex;
+    justify-content: center;
+}
+.b-college{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(53, 53, 213);
+    color: white;
+    width: auto;
+    
+}
+
+
+/*.parent {
+    background-color: pink
+    margin : 0;
+    align-items :center;
+    display : flex;
+    justify-content:center;
+}
+
+.to-be-aligned {
+    height : 10rem;
+    width: 10rem;
+    border-radius: 1rem;
+    background-color: brown;
+    border:#1e1e1e solid ;
+}
+.inner {
+    height: auto;
+    width : auto;
+    background-color: blueviolet;
+    margin : 1rem;
+    paddding : 1rem;
+}*/
+
